@@ -1,0 +1,42 @@
+.main {
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 10%;
+  color: brown;
+}
+
+h1 {
+  color: rgb(66, 30, 30);
+  border-bottom: solid;
+}
+
+h1:hover {
+  text-shadow: 2px 2px 5px brown;
+}
+
+span {
+  padding-right: 15px;
+  padding-top: 10px;
+}
+h3 {
+  margin-top: 0%;
+}
+.column {
+  column-count: 2;
+  column-fill: balance;
+}
+
+li {
+  list-style: none;
+}
+ul {
+  padding-left: 0px;
+}
+a {
+  color: brown;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

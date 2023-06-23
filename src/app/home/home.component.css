@@ -1,0 +1,19 @@
+.main {
+  padding-top: 200px;
+  padding-left: 20%;
+  display: flex;
+}
+
+h1 {
+  color: rgb(66, 30, 30);
+  text-align: center;
+}
+
+h1:hover {
+  text-shadow: 2px 2px 5px brown;
+}
+
+h3 {
+  color: brown;
+  text-align: center;
+}

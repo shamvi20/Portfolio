@@ -1,0 +1,30 @@
+.main {
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 10%;
+  color: brown;
+}
+
+h1 {
+  color: rgb(66, 30, 30);
+  border-bottom: solid;
+}
+
+h1:hover {
+  text-shadow: 2px 2px 5px brown;
+}
+
+p {
+  font-size: medium;
+  line-height: 25px;
+}
+
+a {
+  text-decoration: none;
+  color: brown;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: rgb(66, 30, 30);
+}

@@ -1,0 +1,23 @@
+.main {
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 10%;
+  color: brown;
+  font-family: "Grandstander";
+}
+
+h1 {
+  color: rgb(66, 30, 30);
+  border-bottom: solid;
+  font-family: "Grandstander";
+  font-weight: bold;
+  font-size: 2em;
+}
+
+h1:hover {
+  text-shadow: 2px 2px 5px brown;
+}
+
+h5 {
+  font-family: "Grandstander";
+}
